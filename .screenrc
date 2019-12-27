@@ -1,0 +1,5 @@
+# set the default number of scrollback lines to 100000
+defscrollback 100000
+
+# allow terminal scrolling in either xterm or PuTTY or ssh.
+termcapinfo xterm ti@:te@
