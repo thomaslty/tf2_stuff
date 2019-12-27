@@ -69,6 +69,7 @@ chmod +x ~/update.sh
 chmod +x ~/tf.sh
 
 echo "Installing TF2 (This may take a while)"
+cd ~
 ./update.sh
 
 # Fix for srcds looking in wrong directory for binaries. (Such as steamclient.so)
