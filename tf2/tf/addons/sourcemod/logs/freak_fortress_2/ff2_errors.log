@@ -1,0 +1,71 @@
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character seeman needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character seeldier needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character demopan needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character ninjaspy needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character gentlespy needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character saxtonhale needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character vagineer_hale needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character hhh_hale needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character brutal_sniper_hale needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 07:46:16: [freak_fortress_2.smx] [Boss] Character easterbunny needs plugin ff2_dynamic_defaults!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v2.mdl'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v2.dx80.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v2.dx90.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v2.sw.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v2.vvd'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v3.mdl'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v3.dx80.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v3.dx90.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v3.sw.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v3.vvd'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'models/player/saxton_hale_jungle_inferno/saxton_hale.mdl'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'models/player/saxton_hale_jungle_inferno/saxton_hale.dx80.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'models/player/saxton_hale_jungle_inferno/saxton_hale.dx90.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'models/player/saxton_hale_jungle_inferno/saxton_hale.sw.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'models/player/saxton_hale_jungle_inferno/saxton_hale.vvd'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_belt_high.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_belt_high.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_body.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_body.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_body_saxxy.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_body_saxxy.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_hat_color.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_hat_color.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_hat_saxxy.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_hat_saxxy.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/hwm/saxton_head.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/hwm/saxton_head.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/hwm/saxton_head_saxxy.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/hwm/saxton_head_saxxy.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/hwm/tongue.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/hwm/tongue.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_belt_high_normal.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_belt.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_body_alt.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_body_exp.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/saxton_body_normal.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/tongue_saxxy.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/hwm/saxton_head_exponent.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/hwm/saxton_head_normal.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/shades/eye.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/shades/eyeball_l.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/shades/eyeball_r.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/shades/eyeball_saxxy.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/shades/eye-extra.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/shades/eye-saxxy.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/shades/inv.vmt'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'materials/models/player/hwm_saxton_hale/shades/null.vtf'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_theme.mp3'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v151.mdl'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v151.dx80.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v151.dx90.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v151.sw.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v151.vvd'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character hhh_hale is missing file 'sound/freak_fortress_2/hhh/hhh_bgm.mp3'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v6.mdl'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v6.dx80.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v6.dx90.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v6.sw.vtx'!
+L 12/27/2019 - 08:19:36: [freak_fortress_2.smx] [Boss] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v6.vvd'!
+L 12/27/2019 - 08:36:50: [freak_fortress_2.smx] 
+L 12/27/2019 - 08:41:49: [freak_fortress_2.smx] 

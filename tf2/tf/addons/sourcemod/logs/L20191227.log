@@ -1,0 +1,59 @@
+L 12/27/2019 - 04:23:36: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 04:23:36: [randomcycle.smx] RandomCycle has chosen cp_powerhouse for the nextmap.
+L 12/27/2019 - 05:55:25: Log file closed.
+L 12/27/2019 - 05:56:05: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 05:56:05: [randomcycle.smx] RandomCycle has chosen ctf_landfall for the nextmap.
+L 12/27/2019 - 06:42:49: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 06:42:49: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 12/27/2019 - 06:42:49: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-v1.11.0 Beta===
+L 12/27/2019 - 06:42:58: [UPDATER] Successfully updated gamedata file "tf2.items.txt"
+L 12/27/2019 - 06:42:58: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 12/27/2019 - 06:43:03: [randomcycle.smx] RandomCycle has chosen arena_nucleus for the nextmap.
+L 12/27/2019 - 06:51:58: -------- Mapchange to arena_badlands --------
+L 12/27/2019 - 06:52:10: [randomcycle.smx] RandomCycle has chosen cp_foundry for the nextmap.
+L 12/27/2019 - 07:07:36: Log file closed.
+L 12/27/2019 - 07:08:34: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 07:08:34: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 12/27/2019 - 07:08:34: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-v1.11.0 Beta===
+L 12/27/2019 - 07:08:48: [randomcycle.smx] RandomCycle has chosen cp_gravelpit for the nextmap.
+L 12/27/2019 - 07:13:43: [mapchooser.smx] Voting for next map has started.
+L 12/27/2019 - 07:16:34: Log file closed.
+L 12/27/2019 - 07:46:05: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 07:46:05: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 12/27/2019 - 07:46:05: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-195020===
+L 12/27/2019 - 07:46:21: [randomcycle.smx] RandomCycle has chosen cp_yukon_final for the nextmap.
+L 12/27/2019 - 07:52:28: Log file closed.
+L 12/27/2019 - 08:19:26: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 08:19:26: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 12/27/2019 - 08:19:26: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-195020===
+L 12/27/2019 - 08:19:41: [randomcycle.smx] RandomCycle has chosen cp_gorge for the nextmap.
+L 12/27/2019 - 08:19:59: Log file closed.
+L 12/27/2019 - 08:33:34: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 08:33:34: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 12/27/2019 - 08:33:35: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-195020===
+L 12/27/2019 - 08:33:49: [randomcycle.smx] RandomCycle has chosen arena_well for the nextmap.
+L 12/27/2019 - 08:39:10: [mapchooser.smx] Voting for next map has started.
+L 12/27/2019 - 08:39:12: [mapchooser.smx] Voting for next map has finished. Nextmap: arena_ravine.
+L 12/27/2019 - 08:44:00: [SM] Changed map to "arena_ravine"
+L 12/27/2019 - 08:44:01: -------- Mapchange to arena_ravine --------
+L 12/27/2019 - 08:44:14: [randomcycle.smx] RandomCycle has chosen cp_degrootkeep for the nextmap.
+L 12/27/2019 - 08:49:28: Log file closed.
+L 12/27/2019 - 08:49:53: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 08:49:53: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 12/27/2019 - 08:49:54: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-195020===
+L 12/27/2019 - 08:50:08: [randomcycle.smx] RandomCycle has chosen koth_viaduct for the nextmap.
+L 12/27/2019 - 08:50:21: Log file closed.
+L 12/27/2019 - 08:52:31: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 08:52:31: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 12/27/2019 - 08:52:31: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-195020===
+L 12/27/2019 - 08:52:46: [randomcycle.smx] RandomCycle has chosen cp_steel for the nextmap.
+L 12/27/2019 - 09:01:59: Log file closed.
+L 12/27/2019 - 09:06:18: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 09:06:18: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 12/27/2019 - 09:06:18: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-195020===
+L 12/27/2019 - 09:06:32: [randomcycle.smx] RandomCycle has chosen arena_ravine for the nextmap.
+L 12/27/2019 - 09:08:17: Log file closed.
+L 12/27/2019 - 09:09:26: SourceMod log file session started (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/L20191227.log") (Version "1.10.0.6459")
+L 12/27/2019 - 09:09:26: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 12/27/2019 - 09:09:26: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-195020===
+L 12/27/2019 - 09:09:40: [randomcycle.smx] RandomCycle has chosen ctf_2fort_invasion for the nextmap.

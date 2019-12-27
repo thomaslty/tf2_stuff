@@ -1,0 +1,264 @@
+L 12/27/2019 - 06:42:49: SourceMod error session started
+L 12/27/2019 - 06:42:49: Info (map "ctf_2fort") (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/errors_20191227.log")
+L 12/27/2019 - 06:42:49: [SM] Exception reported: Error, can't read file containing the item list : addons/sourcemod/configs/tf2items.weapons.txt
+L 12/27/2019 - 06:42:49: [SM] Blaming: tf2items_manager.smx
+L 12/27/2019 - 06:42:49: [SM] Call stack trace:
+L 12/27/2019 - 06:42:49: [SM]   [0] SetFailState
+L 12/27/2019 - 06:42:49: [SM]   [1] Line 261, tf2items_manager.sp::ParseItems
+L 12/27/2019 - 06:42:49: [SM]   [2] Line 58, tf2items_manager.sp::OnPluginStart
+L 12/27/2019 - 06:42:49: [SM] Unable to load plugin "tf2items_manager.smx": Error detected in plugin startup (see error logs)
+L 12/27/2019 - 06:46:03: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/27/2019 - 06:46:03: [SM] Blaming: steamtools.smx
+L 12/27/2019 - 06:46:03: [SM] Call stack trace:
+L 12/27/2019 - 06:46:03: [SM]   [1] Line 65, steamtools.sp::Steam_StatsReceived
+L 12/27/2019 - 06:51:58: Error log file session closed.
+L 12/27/2019 - 06:52:05: SourceMod error session started
+L 12/27/2019 - 06:52:05: Info (map "arena_badlands") (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/errors_20191227.log")
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeman is missing file 'models/freak_fortress_2/seeman/seeman_v0.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeman is missing file 'models/freak_fortress_2/seeman/seeman_v0.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeman is missing file 'models/freak_fortress_2/seeman/seeman_v0.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeman is missing file 'models/freak_fortress_2/seeman/seeman_v0.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeman is missing file 'models/freak_fortress_2/seeman/seeman_v0.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeman is missing file 'sound/freak_fortress_2/seeman/seecombo_begin.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeman is missing file 'sound/freak_fortress_2/seeman/seeman_rage.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeman is missing file 'sound/freak_fortress_2/seeman/seeman_see.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeldier is missing file 'models/freak_fortress_2/seeman/seeldier_v0.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeldier is missing file 'models/freak_fortress_2/seeman/seeldier_v0.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeldier is missing file 'models/freak_fortress_2/seeman/seeldier_v0.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeldier is missing file 'models/freak_fortress_2/seeman/seeldier_v0.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeldier is missing file 'models/freak_fortress_2/seeman/seeldier_v0.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character seeldier is missing file 'sound/freak_fortress_2/seeman/seeldier_see.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v1.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v1.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v1.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v1.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/demopan_v1.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/giant_shako.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/giant_shako.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/giant_shako.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/giant_shako.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/giant_shako.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_1.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_1.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_2.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_2.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_3.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_3.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_4.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_4.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_5.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_5.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_6.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_6.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_7.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_7.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_8.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_8.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_9.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_9.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_10.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_10.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_11.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_11.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_12.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_12.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_0.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'materials/freak_fortress_2/demopan/trade_0.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'models/freak_fortress_2/demopan/giant_shako.phy'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'sound/freak_fortress_2/demopan/demopan_begin.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'sound/freak_fortress_2/demopan/demopan_win.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character demopan is missing file 'sound/freak_fortress_2/demopan/demopan_kspree.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'models/freak_fortress_2/ninjaspy/ninjaspy_v2_2.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'models/freak_fortress_2/ninjaspy/ninjaspy_v2_2.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'models/freak_fortress_2/ninjaspy/ninjaspy_v2_2.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'models/freak_fortress_2/ninjaspy/ninjaspy_v2_2.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'models/freak_fortress_2/ninjaspy/ninjaspy_v2_2.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'materials/freak_fortress_2/ninjaspy/spy_black.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'materials/freak_fortress_2/ninjaspy/spy_black.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'materials/freak_fortress_2/ninjaspy/fez_red.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'materials/freak_fortress_2/ninjaspy/fez_red.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'materials/freak_fortress_2/ninjaspy/spy_head_red.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'materials/freak_fortress_2/ninjaspy/spy_head_red.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/fakedeath_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/fakedeath_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/fakedeath_3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/fakedeath_4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/fakedeath_5.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/fakedeath_6.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/fakedeath_7.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/kill_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/kill_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/kill_3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/kill_4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/kill_demo.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/kill_scout.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/kill_soldier.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/kill_pyro.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/kill_heavy.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/ninjaspy_begin.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/ninjaspy_begin2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character ninjaspy is missing file 'sound/freak_fortress_2/ninjaspy/ninjaspy_begin3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v1.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v1.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v1.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v1.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'models/freak_fortress_2/gentlespy/the_gentlespy_v1.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'materials/freak_fortress_2/gentlespy_tex/stylish_spy_blue.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'materials/freak_fortress_2/gentlespy_tex/stylish_spy_blue.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'materials/freak_fortress_2/gentlespy_tex/stylish_spy_blue_invun.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'materials/freak_fortress_2/gentlespy_tex/stylish_spy_blue_invun.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'materials/freak_fortress_2/gentlespy_tex/stylish_spy_red.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'materials/freak_fortress_2/gentlespy_tex/stylish_spy_red.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'materials/freak_fortress_2/gentlespy_tex/stylish_spy_red_invun.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'materials/freak_fortress_2/gentlespy_tex/stylish_spy_red_invun.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'materials/freak_fortress_2/gentlespy_tex/stylish_spy_normal.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character gentlespy is missing file 'sound/freak_fortress_2/gentlespy/gentle_music.mp3'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'models/player/saxton_hale/saxton_hale.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'models/player/saxton_hale/saxton_hale.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'models/player/saxton_hale/saxton_hale.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'models/player/saxton_hale/saxton_hale.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'models/player/saxton_hale/saxton_hale.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/eye.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/eye.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_body.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_body.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_egg.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_egg.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_head.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_head.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_misc.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_misc.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/eyeball_l.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/eyeball_r.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_body_normal.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'materials/models/player/saxton_hale/hale_misc_normal.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_start1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_start2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_start3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_start4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_start5.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_start_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_start_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_start_3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_start_4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_start_5.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_spree1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_spree2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_spree3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_spree4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_spree5.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kspree_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kspree_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_win1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_win2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_fail1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_fail2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_fail3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_rage1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_rage2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_rage3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_rage4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_jump_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_jump_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_jump1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_jump2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_last.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_lastman1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_lastman2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_lastman3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_lastman4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_lastman5.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kill_scout.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kill_w_and_m1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kill_demo.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kill_heavy.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kill_engie_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kill_engie_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_kill_eggineer1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_kill_eggineer2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_kill_medic.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_kill_sniper1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_kill_sniper2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kill_spie.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_kill_spy1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_responce_kill_spy2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_kill_toy.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_stub_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_stub_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_stub_3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character saxtonhale is missing file 'sound/saxton_hale/saxton_hale_132_stub_4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v134.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v134.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v134.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v134.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'models/player/saxton_hale/vagineer_v134.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_intro.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/lolwut_0.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/lolwut_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/lolwut_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/lolwut_3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/lolwut_4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/lolwut_5.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_taunt_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_taunt_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_taunt_3.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_taunt_4.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_taunt_5.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_fail_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_fail_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_rage_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_rage_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_jump_1.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character vagineer_hale is missing file 'sound/saxton_hale/vagineer_responce_jump_2.wav'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character hhh_hale is missing file 'models/player/saxton_hale/hhh_jr_mk3.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character hhh_hale is missing file 'models/player/saxton_hale/hhh_jr_mk3.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character hhh_hale is missing file 'models/player/saxton_hale/hhh_jr_mk3.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character hhh_hale is missing file 'models/player/saxton_hale/hhh_jr_mk3.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character hhh_hale is missing file 'models/player/saxton_hale/hhh_jr_mk3.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v4.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v4.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v4.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v4.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v4.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'materials/models/player/saxton_hale/sniper_lens.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'materials/models/player/saxton_hale/sniper_lens.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'materials/models/player/saxton_hale/sniper_red.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'materials/models/player/saxton_hale/sniper_red.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'materials/models/player/saxton_hale/eyeball_l.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'materials/models/player/saxton_hale/sniper_head_red.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'materials/models/player/saxton_hale/eyeball_r.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'materials/models/player/saxton_hale/sniper_head.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'sound/saxton_hale/the_millionaires_holiday.mp3'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character brutal_sniper_hale is missing file 'models/player/saxton_hale/cbs_v4.phy'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/easter_demo.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/easter_demo.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/easter_demo.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/easter_demo.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/easter_demo.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/w_easteregg.mdl'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/w_easteregg.dx80.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/w_easteregg.dx90.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/w_easteregg.sw.vtx'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'models/player/saxton_hale/w_easteregg.vvd'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/player/easter_demo/easter_body.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/player/easter_demo/easter_body.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/player/easter_demo/easter_rabbit.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/player/easter_demo/easter_rabbit.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/props_easteregg/c_easteregg.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/props_easteregg/c_easteregg.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/player/easter_demo/demoman_head_red.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/player/easter_demo/easter_rabbit_normal.vtf'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/player/easter_demo/eyeball_r.vmt'!
+L 12/27/2019 - 06:52:05: [freak_fortress_2.smx] [FF2 Bosses] Character easterbunny is missing file 'materials/models/props_easteregg/c_easteregg_gold.vmt'!
+L 12/27/2019 - 07:07:36: Error log file session closed.
+L 12/27/2019 - 08:49:53: SourceMod error session started
+L 12/27/2019 - 08:49:53: Info (map "arena_badlands") (file "/home/tf2server/tf2/tf/addons/sourcemod/logs/errors_20191227.log")
+L 12/27/2019 - 08:49:53: [SM] Exception reported: Failed to create native "Steam_IsVACEnabled", name is probably already in use
+L 12/27/2019 - 08:49:53: [SM] Blaming: swag.smx
+L 12/27/2019 - 08:49:53: [SM] Call stack trace:
+L 12/27/2019 - 08:49:53: [SM]   [0] CreateNative
+L 12/27/2019 - 08:49:53: [SM]   [1] Line 36, swag.sp::AskPluginLoad2
+L 12/27/2019 - 08:49:53: [SM] Failed to load plugin "swag.smx": unexpected error 23 in AskPluginLoad callback.
+L 12/27/2019 - 08:50:21: Error log file session closed.
